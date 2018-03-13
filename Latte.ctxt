@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=someFoam\ numShots\ temp
+comment0.target=Latte(boolean,\ Espresso,\ int)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2
